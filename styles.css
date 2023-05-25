@@ -1,12 +1,12 @@
 body {
-  background-color: #000000;
+  background-color: #fcfcfc;
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
 }
 
 h1 {
-  color: #333;
+  color: #000000;
   font-size: 24px;
   margin-bottom: 20px;
 }
@@ -14,4 +14,10 @@ h1 {
 p {
   color: #666;
   font-size: 16px;
+}
+
+h5 {
+  color: #316cec;
+  font-size: 24px;
+  margin-bottom: 20px;
 }
